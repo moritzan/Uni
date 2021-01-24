@@ -1,8 +1,7 @@
 # %% Mensch-Maschinen Katzenbrunnen
 import time #fuer sleep() 
 
-
-#"Ueberladbare" UND Gatter Funktion
+#Frage Wasserstandssensor ab (fiktiv)
 def GetWasserstand():
     #Fiktiver Code
     #wasserstand = sensor.readValue() <- fiktiver Code
