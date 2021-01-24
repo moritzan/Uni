@@ -1,4 +1,4 @@
-# %% Mensch Maschinen Katzenbrunnen
+# %% Mensch-Maschinen Katzenbrunnen
 import time #fuer sleep() 
 
 
